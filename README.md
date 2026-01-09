@@ -40,7 +40,7 @@ The app will open in your default web browser at `http://localhost:8501`.
 
 ## Deployment
 
-This application is deployed on Streamlit Cloud. Visit the live demo at [your-app-url].
+This application is deployed on Streamlit Cloud. Visit the live demo at [https://simverse-yueg8vy86b4e88et6l2gxt.streamlit.app/].
 
 ## Physics Background
 
